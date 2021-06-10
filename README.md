@@ -13,7 +13,8 @@
 Демонстрация нескольких решений будет огромным плюсом.
 
 ### Пример работы функции: <br>
-const correct1 = ‘{((a+b)*3) + a + c*[2-x]}*x’; const correct2 = ‘()[{a}+c]’; <br>
+const correct1 = ‘{((a+b)*3) + a + c*[2-x]}*x’; <br>
+const correct2 = ‘()[{a}+c]’; <br>
 const incorrect1 = ‘(a+{b) *c}’; <br>
 const incorrect2 = ‘([a+b]*c}’; <br>
 
